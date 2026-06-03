@@ -1,5 +1,5 @@
 ## First Thing First
-All credit are to: https://github.com/koldoon/codenames-game
+All the credits are to: https://github.com/koldoon/codenames-game
 
 I only offered English UI translation, alongside 133 generated translations for the board words.
 
