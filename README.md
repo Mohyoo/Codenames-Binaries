@@ -13,4 +13,4 @@ This repository contains binaries for Windows, Mac, Linux and AIX operating syst
 Go to the [releases](https://github.com/Mohyoo/Codenames-Binaries/releases) page to download. <br>
 I could only test the Windows binaries, if anyone faces issues with other platforms, please let me know.
 
-The game support LAN mode (local network), and for it, the players need to connect to the same Wi-Fi network.
+The game support LAN mode (local network); and for it to work, the players need to connect to the same Wi-Fi network.
